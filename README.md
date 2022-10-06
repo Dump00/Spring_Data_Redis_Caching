@@ -20,4 +20,4 @@ Using the Jedis client, we're defining a **connectionFactory**.
 
 ## source
 
-[a link](https://www.baeldung.com/spring-data-redis-tutorial)
+[Introduction to Spring Data Redis](https://www.baeldung.com/spring-data-redis-tutorial)
